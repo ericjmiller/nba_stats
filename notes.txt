@@ -1,0 +1,14 @@
+sample flask file:
+https://github.com/mattupstate/flask-social-example/tree/master/app
+
+finding nba api:
+http://www.gregreda.com/2015/02/15/web-scraping-finding-the-api/
+
+nba api info:
+https://www.npmjs.com/package/nba
+
+more nba info:
+http://www.danielforsyth.me/exploring_nba_data_in_python/
+
+sportsradar:
+http://developer.sportradar.us/docs/NBA_API
