@@ -1,10 +1,7 @@
 from flask import Flask
 
 app = Flask(__name__)
-
-@app.route('/test')
-def test():
-    return 'hello!'
+app.config.from_object('config')
 
 
 from . import views
